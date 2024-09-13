@@ -23,7 +23,7 @@ Este é um projeto desenvolvido em Python utilizando o framework PyQt5 para a cr
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/FelipeFreire23/Trabalho.git
    cd seu-repositorio
    ```
 
